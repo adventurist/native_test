@@ -1,10 +1,3 @@
-# Lerna Test
+# Native Test
 
-This repository is testing changelog generators
-
-# Features
-
-This repository has features!!!
-
-## Arbitrary Changes
-- Change 1
+Testing the C api (napi) for writing native modules
